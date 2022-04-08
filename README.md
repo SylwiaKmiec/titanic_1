@@ -1,1 +1,1 @@
-# titanic_1
+# titanic_kaggle
