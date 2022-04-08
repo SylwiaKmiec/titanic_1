@@ -1,7 +1,7 @@
 # titanic_kaggle
 
-#### *  **Titanic Kaggle competition**: The competition is simple: use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
-#### *  **Performed**:
+####  **Titanic Kaggle competition**: The competition is simple: use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
+####  **Performed**:
    - Data exploration
    - Data Visualisation
    - Data Preparation
